@@ -1,0 +1,75 @@
+:root { --mavi: #6bc2f1 }
+header { 
+    background: url('../img/headerbg.jpg') center/cover 
+}
+.bg-mavi { background: var(--mavi) }
+.text-mavi { color: var(--mavi) }
+.bg-transp-white { background: rgba(255,255,255,.8) }
+.bg-boz{background: #f1f1f1;}
+.vh-50 { height: 50vh }
+.vh-70 { height: 70vh }
+#fimg1 { background: url('../img/fimg1.jpg') center/cover }
+#fimg2 { background: url('../img/fimg2.jpg') center/cover }
+#fimg1:hover, #fimg2:hover { opacity: .5; }
+#message { height: 200px}
+#img1{ background: url('../img/img1.jpg') center/cover;}
+#img2{ background: url('../img/img2.jpg') center/cover;}
+#img3{ background: url('../img/img3.jpg') center/cover;}
+#img4{ background: url('../img/img4.jpg') center/cover;}
+#img5{ background: url('../img/img5.jpg') center/cover;}
+#img6{ background: url('../img/img6.jpg') center/cover;}
+.fa-pills{ 
+    font-size: 2em;
+    color: #1476ac;
+}
+.fa-user-md{
+    font-size: 2em;
+    color: #1476ac;
+}
+.fa-heartbeat{
+    font-size: 2em;
+    color: #1476ac;
+}
+.fa-medkit{
+    font-size: 2em;
+    color: #1476ac;
+}
+.fa-microscope{
+    font-size: 2em;
+    color: #1476ac;
+}
+.fa-phone{
+    font-size: 2em;
+    color: #1476ac;
+}
+#button1{
+    background: url('../img/user2.png') center/cover no-repeat;
+    width: 50px;
+    height: 50px;
+}
+#button2{
+    background: url('../img/user3.png') center/cover no-repeat;
+    width: 50px;
+    height: 50px;
+}
+#button3{
+    background: url('../img/user1.png') center/cover no-repeat;
+    width: 50px;
+    height: 50px;
+}
+#button4{
+    background: url('../img/user4.png') center/cover no-repeat;
+    width: 50px;
+    height: 50px;
+}#button5{
+    background: url('../img/user5.png') center/cover no-repeat;
+    width: 50px;
+    height: 50px;
+}
+#button6{
+    background: none;
+}
+#button7{
+    background: none;
+}
+footer {  background: #072035; }
